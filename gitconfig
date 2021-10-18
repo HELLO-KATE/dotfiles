@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sohzhenyi@gmail.com
+	name = Soh Zhen Yi
